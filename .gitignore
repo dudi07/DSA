@@ -1,0 +1,20 @@
+# Java build output
+bin/
+*.class
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE files
+*.iml
+.idea/
+
+# Misc
+*.swp
+*.swo
